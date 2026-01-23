@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeXdhruv/dsa-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeXdhruv/dsa-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/CodeXdhruv/dsa-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeXdhruv/dsa-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -90,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
