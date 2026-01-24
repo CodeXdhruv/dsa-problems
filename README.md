@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0283-move-zeroes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CodeXdhruv/dsa-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/CodeXdhruv/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
