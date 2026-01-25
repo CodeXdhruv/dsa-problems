@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -109,8 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/CodeXdhruv/dsa-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
