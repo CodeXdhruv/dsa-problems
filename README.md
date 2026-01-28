@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/CodeXdhruv/dsa-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0283-move-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/CodeXdhruv/dsa-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/CodeXdhruv/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CodeXdhruv/dsa-problems/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CodeXdhruv/dsa-problems/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/1137-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
