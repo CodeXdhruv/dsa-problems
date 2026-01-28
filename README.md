@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/CodeXdhruv/dsa-problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/CodeXdhruv/dsa-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/CodeXdhruv/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/CodeXdhruv/dsa-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/CodeXdhruv/dsa-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/CodeXdhruv/dsa-problems/tree/master/1894-merge-strings-alternately) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/CodeXdhruv/dsa-problems/tree/master/1146-greatest-common-divisor-of-strings) |
