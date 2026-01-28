@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/CodeXdhruv/dsa-problems/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/CodeXdhruv/dsa-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
