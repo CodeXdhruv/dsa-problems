@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0283-move-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/CodeXdhruv/dsa-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CodeXdhruv/dsa-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeXdhruv/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
