@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/CodeXdhruv/dsa-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/CodeXdhruv/dsa-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/CodeXdhruv/dsa-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/CodeXdhruv/dsa-problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CodeXdhruv/dsa-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/CodeXdhruv/dsa-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CodeXdhruv/dsa-problems/tree/master/0242-valid-anagram) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/CodeXdhruv/dsa-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeXdhruv/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/CodeXdhruv/dsa-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
