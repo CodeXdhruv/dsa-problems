@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/CodeXdhruv/dsa-problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/CodeXdhruv/dsa-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeXdhruv/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/CodeXdhruv/dsa-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/CodeXdhruv/dsa-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
