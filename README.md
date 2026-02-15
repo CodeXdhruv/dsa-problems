@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/CodeXdhruv/dsa-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CodeXdhruv/dsa-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0222-count-complete-tree-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeXdhruv/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0222-count-complete-tree-nodes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/CodeXdhruv/dsa-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/CodeXdhruv/dsa-problems/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
