@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CodeXdhruv/dsa-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CodeXdhruv/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/CodeXdhruv/dsa-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/CodeXdhruv/dsa-problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeXdhruv/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/CodeXdhruv/dsa-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/CodeXdhruv/dsa-problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/CodeXdhruv/dsa-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/CodeXdhruv/dsa-problems/tree/master/1894-merge-strings-alternately) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/CodeXdhruv/dsa-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeXdhruv/dsa-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeXdhruv/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/CodeXdhruv/dsa-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/CodeXdhruv/dsa-problems/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/CodeXdhruv/dsa-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
